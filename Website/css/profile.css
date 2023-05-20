@@ -1,0 +1,21 @@
+.profile-container {
+    position: absolute;
+    left: 20px; /* Adjust the value to position the picture as desired */
+    top: 20px; /* Adjust the value to position the picture as desired */
+  }
+  
+  .profile-picture {
+    width: 100px; /* Adjust the dimensions as desired */
+    height: 100px; /* Adjust the dimensions as desired */
+    border-radius: 50%; /* Creates a round shape */
+  }
+  .container {
+    justify-content: space-between;
+    flex-direction: column;
+    
+    display: flex;
+  }
+  .container .btn-holder {
+    justify-content: flex-end;
+    display: flex;
+  }
