@@ -1,1 +1,1 @@
-Hi
+The above build may not work properly as the blockchain is not hosted on a server, so contact the blockchain organizer for details.
